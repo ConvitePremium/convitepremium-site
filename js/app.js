@@ -78,6 +78,41 @@ document.onkeydown=e=>{
     vid.innerHTML='';
     document.body.style.overflow=''
   }
-};
+};function iniciarNotificacoes(){
+  const box=document.createElement('div');
+  box.className='social-proof';
+  document.body.appendChild(box);
+
+  const titulos=[
+    '💬 Orçamento solicitado',
+    '⭐ Modelo em destaque',
+    '🔥 Tema em alta',
+    '✨ Cliente interessado'
+  ];
+
+  function mostrar(){
+    if(!convites.length)return;
+
+    const convite=convites[Math.floor(Math.random()*convites.length)];
+    const titulo=titulos[Math.floor(Math.random()*titulos.length)];
+
+    box.innerHTML=`
+      <strong>${titulo}</strong>
+      <p>Um cliente acabou de pedir informações sobre "${convite.nome}".</p>
+      <span>há poucos minutos</span>
+    `;
+
+    box.classList.add('show');
+
+    setTimeout(()=>{
+      box.classList.remove('show');
+    },6000);
+  }
+
+  setTimeout(mostrar,5000);
+  setInterval(mostrar,30000);
+}
+
+setTimeout(iniciarNotificacoes,1500);
 
 init();
