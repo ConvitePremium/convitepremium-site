@@ -34,5 +34,14 @@
     "descricao": "Um convite digital mágico e encantador, inspirado na Casa Mágica da Gabby, perfeito para transformar o aniversário em uma experiência cheia de fantasia e diversão.",
     "thumbnail": "assets/thumbnails/a-casa-magica-da-gabby.png",
     "video": "videos/a-casa-magica-da-gabby.mp4"
+  },
+  {
+    "id": "chapeuzinho-vermelho",
+    "nome": "Chapeuzinho Vermelho",
+    "categoria": "Infantil",
+    "selo": "CLÁSSICO",
+    "descricao": "Um convite encantador inspirado no clássico da Chapeuzinho Vermelho, perfeito para uma festa cheia de magia e aventura.",
+    "thumbnail": "assets/thumbnails/chapeuzinho-vermelho.png",
+    "video": "videos/chapeuzinho-vermelho.mp4"
   }
 ]
