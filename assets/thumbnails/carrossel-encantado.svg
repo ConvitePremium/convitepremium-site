@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs><radialGradient id="g"><stop offset="0%" stop-color="#d4af37"/><stop offset="55%" stop-color="#6b4721"/><stop offset="100%" stop-color="#090604"/></radialGradient><linearGradient id="gold"><stop offset="0%" stop-color="#fff2b8"/><stop offset="55%" stop-color="#d4af37"/><stop offset="100%" stop-color="#9b6815"/></linearGradient></defs>
+<rect width="1080" height="1920" fill="url(#g)"/><circle cx="540" cy="470" r="250" fill="none" stroke="url(#gold)" stroke-width="10"/>
+<text x="540" y="835" font-family="Georgia, serif" font-size="105" font-weight="700" text-anchor="middle" fill="#fff4dc">Carrossel</text>
+<text x="540" y="965" font-family="Georgia, serif" font-size="115" font-weight="700" text-anchor="middle" fill="url(#gold)">Encantado</text>
+<line x1="230" y1="1040" x2="850" y2="1040" stroke="url(#gold)" stroke-width="5"/>
+<text x="540" y="1135" font-family="Arial" font-size="38" font-weight="700" letter-spacing="7" text-anchor="middle" fill="#fff4dc">CONVITE DIGITAL</text>
+<circle cx="540" cy="1450" r="78" fill="rgba(255,255,255,.18)" stroke="#f4d985" stroke-width="4"/><polygon points="515,1405 515,1495 595,1450" fill="#fff4dc"/></svg>

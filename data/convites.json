@@ -1,0 +1,29 @@
+[
+  {
+    "id": "carrossel-encantado",
+    "nome": "Carrossel Encantado",
+    "categoria": "Infantil",
+    "selo": "NOVO",
+    "descricao": "Um modelo mágico, elegante e encantador para aniversário infantil.",
+    "thumbnail": "assets/thumbnails/carrossel-encantado.svg",
+    "video": "videos/carrossel-encantado.mp4"
+  },
+  {
+    "id": "mundo-doce",
+    "nome": "Mundo Doce",
+    "categoria": "Infantil",
+    "selo": "DESTAQUE",
+    "descricao": "Um convite alegre, colorido e perfeito para uma festa doce e inesquecível.",
+    "thumbnail": "assets/thumbnails/mundo-doce.svg",
+    "video": "videos/mundo-doce.mp4"
+  },
+  {
+    "id": "fazendinha-rosa",
+    "nome": "Fazendinha Rosa",
+    "categoria": "Infantil",
+    "selo": "ENCANTADOR",
+    "descricao": "Tema delicado, fofo e premium para uma comemoração cheia de carinho.",
+    "thumbnail": "assets/thumbnails/fazendinha-rosa.svg",
+    "video": "videos/fazendinha-rosa.mp4"
+  }
+]
