@@ -109,7 +109,7 @@ document.onkeydown=e=>{
     },6000);
   }
 
-  setTimeout(mostrar,5000);
+  setTimeout(mostrar,8000);
   setInterval(mostrar,30000);
 }
 
