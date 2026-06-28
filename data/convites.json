@@ -25,5 +25,14 @@
     "descricao": "Tema delicado, fofo e premium para uma comemoração cheia de carinho.",
     "thumbnail": "assets/thumbnails/fazendinha-rosa.jpeg",
     "video": "videos/fazendinha-rosa.mp4"
+  },
+  {
+    "id": "a-casa-magica-da-gabby",
+    "nome": "A Casa Mágica da Gabby",
+    "categoria": "Infantil",
+    "selo": "NOVO",
+    "descricao": "Um convite digital mágico e encantador, inspirado na Casa Mágica da Gabby, perfeito para transformar o aniversário em uma experiência cheia de fantasia e diversão.",
+    "thumbnail": "assets/thumbnails/a-casa-magica-da-gabby.png",
+    "video": "videos/a-casa-magica-da-gabby.mp4"
   }
 ]
