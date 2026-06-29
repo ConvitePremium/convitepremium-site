@@ -70,5 +70,95 @@
     "descricao": "Um convite mágico e envolvente, com tema delicado, fofo e premium para uma comemoração cheia de carinho",
     "thumbnail": "assets/thumbnails/fazendinha-rosa-2.jpeg",
     "video": "videos/fazendinha-rosa-2.mp4"  
-  }
+  },
+  {
+  "id": "aos-olhos-do-pai",
+  "nome": "Aos Olhos do Pai",
+  "categoria": "Infantil",
+  "selo": "DELICADO",
+  "descricao": "Um convite delicado e emocionante, perfeito para celebrar um momento repleto de amor, fé e carinho.",
+  "thumbnail": "assets/thumbnails/aos-olhos-do-pai.png",
+  "video": "videos/aos-olhos-do-pai.mp4"
+},
+{
+  "id": "princesa-baby",
+  "nome": "Princesa Baby",
+  "categoria": "Infantil",
+  "selo": "ENCANTADOR",
+  "descricao": "Um convite delicado e encantador, perfeito para uma festa digna de uma pequena princesa.",
+  "thumbnail": "assets/thumbnails/princesa-baby.png",
+  "video": "videos/princesa-baby.mp4"
+},
+{
+  "id": "jardim-encantado",
+  "nome": "Jardim Encantado",
+  "categoria": "Infantil",
+  "selo": "CLÁSSICO",
+  "descricao": "Um convite delicado e florido, inspirado em um jardim encantado para uma comemoração inesquecível.",
+  "thumbnail": "assets/thumbnails/jardim-encantado.png",
+  "video": "videos/jardim-encantado.mp4"
+},
+{
+  "id": "frozen",
+  "nome": "Frozen",
+  "categoria": "Infantil",
+  "selo": "EM ALTA",
+  "descricao": "Um convite mágico inspirado em Frozen, perfeito para uma festa repleta de encanto e diversão.",
+  "thumbnail": "assets/thumbnails/frozen.png",
+  "video": "videos/frozen.mp4"
+},
+{
+  "id": "homem-aranha",
+  "nome": "Homem Aranha",
+  "categoria": "Infantil",
+  "selo": "HERÓI",
+  "descricao": "Um convite cheio de ação e aventura, inspirado no Homem-Aranha para uma festa inesquecível.",
+  "thumbnail": "assets/thumbnails/homem-aranha.jpg",
+  "video": "videos/homem-aranha.mp4"
+},
+{
+  "id": "jardim-secreto",
+  "nome": "Jardim Secreto",
+  "categoria": "Infantil",
+  "selo": "ENCANTADOR",
+  "descricao": "Um convite delicado e sofisticado, inspirado na beleza de um jardim secreto.",
+  "thumbnail": "assets/thumbnails/jardim-secreto.png",
+  "video": "videos/jardim-secreto.mp4"
+},
+{
+  "id": "mickey-realeza",
+  "nome": "Mickey Realeza",
+  "categoria": "Infantil",
+  "selo": "PREMIUM",
+  "descricao": "Um convite elegante que une a magia do Mickey ao charme da realeza para uma festa inesquecível.",
+  "thumbnail": "assets/thumbnails/mickey-realeza.jpeg",
+  "video": "videos/mickey-realeza.mp4"
+},
+{
+  "id": "jardim-encantado-2",
+  "nome": "Jardim Encantado 2",
+  "categoria": "Infantil",
+  "selo": "NOVIDADE",
+  "descricao": "Uma nova versão do clássico Jardim Encantado, delicada e perfeita para celebrar momentos especiais.",
+  "thumbnail": "assets/thumbnails/jardim-encantado-2.png",
+  "video": "videos/jardim-encantado-2.mp4"
+},
+{
+  "id": "a-bela-e-a-fera",
+  "nome": "A Bela e a Fera",
+  "categoria": "Infantil",
+  "selo": "CLÁSSICO",
+  "descricao": "Um convite inspirado no clássico A Bela e a Fera, perfeito para uma celebração cheia de magia e romance.",
+  "thumbnail": "assets/thumbnails/a-bela-ea-fera.png",
+  "video": "videos/a-bela-ea-fera.mp4"
+},
+{
+  "id": "jardim-encantado-3",
+  "nome": "Jardim Encantado 3",
+  "categoria": "Infantil",
+  "selo": "NOVO",
+  "descricao": "Uma nova interpretação do Jardim Encantado, delicada, elegante e cheia de charme.",
+  "thumbnail": "assets/thumbnails/jardim-encantado-3.png",
+  "video": "videos/jardim-encantado-3.mp4"
+}
 ]
