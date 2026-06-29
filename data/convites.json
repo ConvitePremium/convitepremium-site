@@ -52,5 +52,14 @@
     "descricao": "Um convite delicado e cheio de ternura, perfeito para celebrar uma Chuva de Benção com muito amor e encanto.",
     "thumbnail": "assets/thumbnails/chuva-de-bencao.jpeg",
     "video": "videos/chuva-de-bencao.mp4"  
+  },
+  {
+    "id": "harry-potter",
+    "nome": "Harry Potter",
+    "categoria": "Infantil",
+    "selo": "EM ALTA",
+    "descricao": "Um convite mágico e envolvente, inspirado no universo de Harry Potter, perfeito para uma celebração repleta de aventuras e encantos.",
+    "thumbnail": "assets/thumbnails/harry-potter.jpg",
+    "video": "videos/harry-potter.mp4"  
   }
 ]
