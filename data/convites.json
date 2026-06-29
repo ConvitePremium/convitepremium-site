@@ -61,5 +61,14 @@
     "descricao": "Um convite mágico e envolvente, inspirado no universo de Harry Potter, perfeito para uma celebração repleta de aventuras e encantos.",
     "thumbnail": "assets/thumbnails/harry-potter.jpg",
     "video": "videos/harry-potter.mp4"  
+  },
+  {
+    "id": "fazendinha-rosa-2",
+    "nome": "Fazendinha Rosa 2",
+    "categoria": "Infantil",
+    "selo": "ENCANTADOR",
+    "descricao": "Um convite mágico e envolvente, com tema delicado, fofo e premium para uma comemoração cheia de carinho",
+    "thumbnail": "assets/thumbnails/fazendinha-rosa-2.jpeg",
+    "video": "videos/fazendinha-rosa-2.mp4"  
   }
 ]
