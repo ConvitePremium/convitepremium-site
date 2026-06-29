@@ -42,6 +42,15 @@
     "selo": "CLÁSSICO",
     "descricao": "Um convite encantador inspirado no clássico da Chapeuzinho Vermelho, perfeito para uma festa cheia de magia e aventura.",
     "thumbnail": "assets/thumbnails/chapeuzinho-vermelho.png",
-    "video": "videos/chapeuzinho-vermelho.mp4"
+    "video": "videos/chapeuzinho-vermelho.mp4"  
+  },
+  {
+    "id": "chuva-de-bencao",
+    "nome": "Chuva de Bençãos",
+    "categoria": "Infantil",
+    "selo": "NOVIDADE",
+    "descricao": "Um convite delicado e cheio de ternura, perfeito para celebrar uma Chuva de Benção com muito amor e encanto.",
+    "thumbnail": "assets/thumbnails/chuva-de-bencao.jpeg",
+    "video": "videos/chuva-de-bencao.mp4"  
   }
 ]
