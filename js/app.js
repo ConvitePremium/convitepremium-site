@@ -106,33 +106,45 @@ document.getElementById('sendOrder').onclick=()=>{
   const hora=document.getElementById('partyTime').value;
   const local=document.getElementById('partyPlace').value;
 
-  const msg=`🎉 NOVO PEDIDO DE CONVITE
+  const msg =
+`══════════════════════
+      CONVITE PREMIUM
+        NOVO PEDIDO
+══════════════════════
 
-✨ Modelo escolhido:
+MODELO
 ${modeloSelecionado.nome}
 
-👶 Nome da criança:
+──────────────────────
+
+NOME
 ${nome}
 
-🎂 Idade:
+IDADE
 ${idade}
 
-🎨 Tema da festa:
+TEMA
 ${tema}
 
-🎙️ Modo:
+MODO
 ${modo}
 
-📅 Dia da festa:
+DATA
 ${data}
 
-⏰ Horário:
+HORÁRIO
 ${hora}
 
-📍 Local:
+LOCAL
 ${local}
 
-✅ Enviado pelo site Convite Premium`;
+══════════════════════
+
+Pedido enviado pelo site
+
+www.convitepremium.shop
+
+══════════════════════`;
 
   window.open(wa(msg),'_blank')
 };
